@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+.task {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.completed span {
+    text-decoration: line-through;
+    color: gray;
+}
+
+button {
+    margin-left: 5px;
+}
