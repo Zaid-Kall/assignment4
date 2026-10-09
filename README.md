@@ -13,3 +13,5 @@ This is a simple Task Manager web application built for the Web Programming cour
 ## How to Run
 1. Open `index.html` in any web browser.
 2. Or run it using a local development server (like Live Server in VS Code).
+## Author
+- Undergraduate Computer Engineering Student
